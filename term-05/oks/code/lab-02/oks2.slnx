@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="oks2/oks2.vcxproj" Id="eb481304-5e7c-43c3-ac75-71fb08def44e" />
+</Solution>

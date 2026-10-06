@@ -66,3 +66,5 @@ Desktop.ini
 ~$*.xlsx
 ~$*.pptx
 *.tmp
+# Visual Studio: пользовательские настройки проектов
+*.vcxproj.user
