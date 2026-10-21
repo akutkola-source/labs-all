@@ -23,6 +23,7 @@
 * **Интерфейсы** ([`interface`](term-05/interface/))
   * [ЛР №1](term-05/interface/code/lab-01-power/) — Энергопитание
   * ЛР №2 — Шина PCI
+  * [ЛР №3](term-05/interface/code/lab-03-storage/) — Устройства хранения данных (вариант А4: сравнительный анализатор HDD vs SSD)
   * [Отчёты](term-05/interface/docs/)
 * **Диагностика** ([`diagnos`](term-05/diagnos/))
   * [ЛР №2](term-05/diagnos/docs/lab-02-modius/) — Modius: ГПСП и сигнатурный анализатор
